@@ -1,7 +1,6 @@
 # 🧠 LeNet-5: Regular vs Depthwise Separable Convolution Analysis
 
-**Academic Project - Neural Network Efficiency Study**  
-*88.24% operation reduction with only 2.08% accuracy drop on MNIST*
+
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
@@ -15,7 +14,7 @@
 ## 🎯 Problem Statement
 
 ### **Academic Assignment Context**
-This project was developed as part of a machine learning systems course assignment to analyze computational efficiency in convolutional neural networks.
+This project was developed as part of a system for Machine learning course assignment to analyze computational efficiency in convolutional neural networks.
 
 ### **Specific Objectives:**
 1. **Implement LeNet-5** using PyTorch and train on MNIST dataset
